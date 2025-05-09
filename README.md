@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silk-rabbit
 - 👀 I’m interested in web development, crypto and networking.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to collaborate on web dev projects
 - 📫 Reach me on discord rabbit#7283
 
